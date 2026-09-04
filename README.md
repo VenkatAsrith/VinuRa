@@ -1,6 +1,6 @@
 # VinuRa
 
-### Visist VinuRa: https://withvinura.netlify.app/
+### Visit VinuRa: https://withvinura.netlify.app/
 ### We build the web presence your business deserves.
 
 VinuRa is a freelance web development team of two developers focused on helping businesses, startups, creators, and organizations build and grow their presence on the internet.
